@@ -1,7 +1,7 @@
 Py-Launcher (Windows only)
 ===========
 
-A Python script launcher with a GUI that launches scripts at set intervals. This program is completely portable and require no install whatsoever.
+A Python script launcher with a GUI that launches scripts at set intervals. This program is completely portable and require no install whatsoever. This program is used for /r/BytecoinBCN and /r/Quazarcoin on Reddit.com for the Exchange rate tickers.
 
 
 ![the program screenshot](http://i.imgur.com/EbwTyx2.png?1) ![the program screenshot](http://i.imgur.com/pgqELxL.png?1) ![the program screenshot](http://i.imgur.com/K3XXpP9.png?1)
