@@ -1,0 +1,11 @@
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\bin\Debug\PRAW-RT.exe.config
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\bin\Debug\PRAW-RT.exe
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\bin\Debug\PRAW-RT.pdb
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\bin\Debug\PRAW-RT.xml
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW_RT.Form1.resources
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW_RT.Resources.resources
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW-RT.vbproj.GenerateResource.Cache
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW-RT.exe
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW-RT.xml
+c:\users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW-RT.pdb
+C:\Users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\obj\Debug\PRAW-RT.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\bin\Release\PRAW-RT.exe.config
+C:\Users\lee\documents\visual studio 2013\Projects\PRAW-RT\PRAW-RT\bin\Release\Py Launcher.exe.config

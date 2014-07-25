@@ -1,0 +1,10 @@
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\bin\Debug\Py Launcher.exe.config
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\bin\Debug\Py Launcher.exe
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\bin\Debug\Py Launcher.pdb
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\bin\Debug\Py Launcher.xml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\obj\Debug\PRAW_RT.Form1.resources
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\obj\Debug\PRAW_RT.Resources.resources
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\obj\Debug\Py Launcher.vbproj.GenerateResource.Cache
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\obj\Debug\Py Launcher.exe
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\obj\Debug\Py Launcher.xml
+C:\Users\lee\Documents\Visual Studio 2013\Projects\PRAW-RT\py\obj\Debug\Py Launcher.pdb
