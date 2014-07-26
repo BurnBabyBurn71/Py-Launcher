@@ -10,5 +10,5 @@ Py-Launcher is a fork of PRAW-RT and it allows users to use any python scrips th
 
 Download (v0.1)
 =======
-https://mega.co.nz/#!34gn3LqT!WxyWl4s2xceZ-mAJ4qKFXmDMLlvr_EEjcE6KdmV-OmM
+https://mega.co.nz/#!Dth2EYzR!8IK2dVEvKdkMdjmwwF6aN56rYDk1mGZzAU4HSdwuyl8
 
