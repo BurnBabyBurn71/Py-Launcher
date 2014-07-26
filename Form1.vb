@@ -23,8 +23,19 @@
     End Sub
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
         If lbcountdown.Text = 1 Then
-            lbcountdown.Text = Val(tbupdate.Text)
+            If RadioButton1.Checked = True Then
+                lbcountdown.Text = Val(tbupdate.Text)
+            Else
+            End If
 
+            If RadioButton2.Checked = True Then
+                lbcountdown.Text = Val(tbupdate.Text) * 60
+            Else
+            End If
+
+            If RadioButton3.Checked = True Then
+                lbcountdown.Text = Val(tbupdate.Text) * 3600
+            End If
             Dim MyFolder As String
             Dim MyFile As String
             MyFolder = "C:\py"
