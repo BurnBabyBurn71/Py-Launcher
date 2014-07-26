@@ -84,7 +84,7 @@ Partial Class Form1
         '
         'bstart
         '
-        Me.bstart.Location = New System.Drawing.Point(6, 188)
+        Me.bstart.Location = New System.Drawing.Point(6, 191)
         Me.bstart.Name = "bstart"
         Me.bstart.Size = New System.Drawing.Size(75, 23)
         Me.bstart.TabIndex = 3
@@ -93,7 +93,7 @@ Partial Class Form1
         '
         'bstop
         '
-        Me.bstop.Location = New System.Drawing.Point(163, 186)
+        Me.bstop.Location = New System.Drawing.Point(163, 191)
         Me.bstop.Name = "bstop"
         Me.bstop.Size = New System.Drawing.Size(75, 23)
         Me.bstop.TabIndex = 4
@@ -255,7 +255,7 @@ Partial Class Form1
         Me.GroupBox4.Size = New System.Drawing.Size(231, 71)
         Me.GroupBox4.TabIndex = 11
         Me.GroupBox4.TabStop = False
-        Me.GroupBox4.Text = "Add scripts"
+        Me.GroupBox4.Text = "Add script"
         '
         'Label2
         '
