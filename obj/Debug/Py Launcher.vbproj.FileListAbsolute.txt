@@ -18,3 +18,13 @@ C:\Users\lee\Documents\GitHub\Py-Launcher\bin\Debug\Py Launcher.xml
 C:\Users\lee\Documents\GitHub\Py-Launcher\obj\Debug\PRAW_RT.Form1.resources
 C:\Users\lee\Documents\GitHub\Py-Launcher\obj\Debug\PRAW_RT.Resources.resources
 C:\Users\lee\Documents\GitHub\Py-Launcher\obj\Debug\Py Launcher.vbproj.GenerateResource.Cache
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\bin\Debug\Py Launcher.exe.config
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\obj\Debug\Py Launcher.exe
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\obj\Debug\Py Launcher.xml
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\obj\Debug\Py Launcher.pdb
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\bin\Debug\Py Launcher.exe
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\bin\Debug\Py Launcher.pdb
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\bin\Debug\Py Launcher.xml
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\obj\Debug\PRAW_RT.Form1.resources
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\obj\Debug\PRAW_RT.Resources.resources
+C:\Users\Lee-Desktop\Documents\GitHub\Py-Launcher\obj\Debug\Py Launcher.vbproj.GenerateResource.Cache
